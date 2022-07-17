@@ -1,4 +1,6 @@
 ### Hi there 👋
+i have worked for 7 months at IraqSoft Company 
+and now works as Software developer at Tamata Company
 
 <!--
 **devnoaman/devnoaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
