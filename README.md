@@ -1,5 +1,5 @@
 ### Hi there 👋
-i have worked for 7 months at IraqSoft Company 
+i have worked for 7 months at IraqSoft Company as full-stack developer 
 and now works as Software developer at Tamata Company
 
 <!--
